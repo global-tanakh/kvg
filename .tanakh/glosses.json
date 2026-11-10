@@ -3,7 +3,7 @@
 "language": "kvg",
 "source": {
 "repo": "bcv-commons/make-tanakh-grammar",
-"commit": "734fca9",
+"commit": "e6fd3a2",
 "editions": [
 "drafts"
 ],
@@ -17,29 +17,13 @@
 1
 ]
 ],
-"hbo:0227": [
-[
-"toqo matanam taqa zita",
-1
-],
-[
-"qoqa",
-1
-]
-],
 "hbo:0251": [
 [
 "qaniap",
 1
 ],
 [
-"qaniap sambi",
-1
-]
-],
-"hbo:0310": [
-[
-"taqa zita",
+"namba qaniap",
 1
 ]
 ],
@@ -49,31 +33,7 @@
 1
 ],
 [
-"ndego",
-1
-]
-],
-"hbo:0408": [
-[
-"taqa",
-1
-],
-[
-"qo",
-1
-],
-[
-"ndøgonèmat",
-1
-]
-],
-"hbo:0413": [
-[
-"yaq",
-1
-],
-[
-"ewágát",
+"gekha",
 1
 ]
 ],
@@ -85,165 +45,61 @@
 ],
 "hbo:0553": [
 [
-"føgakh føgøføgakh",
-1
+"møe",
+2
 ],
 [
-"føgakh",
-1
-],
-[
-"khandi føgakh",
-1
-],
-[
-"føgakh mbá qogó",
-1
+"bazaføgakh",
+2
 ]
 ],
 "hbo:0559": [
 [
-"ein",
-2
+"ein nqǽgo",
+3
 ],
 [
-"ge",
-1
+"āv",
+3
 ],
 [
 "gembøe",
 1
 ],
 [
-"āv gezømbe",
-1
-],
-[
-"ein nqǽgo",
-1
-],
-[
-"gezø",
-1
-],
-[
-"gimbo qavøiu āv",
-1
-]
-],
-"hbo:0595": [
-[
-"no",
+"einim",
 1
 ]
 ],
 "hbo:0776": [
 [
 "manqei",
-7
+6
 ],
 [
-"manqei manqei",
+"te",
+1
+],
+[
+"atema",
 1
 ]
 ],
 "hbo:0802": [
 [
-"sakhei",
-1
-]
-],
-"hbo:0834": [
-[
-"ma",
-8
-],
-[
-"ndægo",
-2
-],
-[
-"ndægoát",
-1
-],
-[
-"ande",
-1
-],
-[
-"ndøgo",
-1
-],
-[
-"matønumát",
-1
-],
-[
-"bègó",
-1
-],
-[
-"gekha",
-1
-]
-],
-"hbo:0853": [
-[
-"namba",
-1
-]
-],
-"hbo:0859": [
-[
-"qo",
-1
-],
-[
-"qo qogó qogó ndǿgo qozø",
-1
-]
-],
-"hbo:0859a": [
-[
-"zo",
-2
-]
-],
-"hbo:0871a": [
-[
-"ndøgo",
-3
-],
-[
-"ndǿgo",
-2
-],
-[
-"mokho",
-1
-],
-[
-"āv",
-1
-],
-[
-"manqei",
-1
-],
-[
-"ta",
+"sævam",
 1
 ]
 ],
 "hbo:0935": [
 [
-"wav",
+"zogeavun",
 1
 ]
 ],
 "hbo:1121": [
 [
-"ge yo",
+"yo",
 1
 ],
 [
@@ -253,23 +109,23 @@
 ],
 "hbo:1366": [
 [
-"manqei",
+"manqei iziz",
 1
 ]
 ],
 "hbo:1368": [
 [
-"us",
+"ezoqam bazaføgakh",
 1
 ]
 ],
 "hbo:1419": [
 [
-"qape",
+"yuflatis",
 1
 ],
 [
-"kandambaqape",
+"qape",
 1
 ]
 ],
@@ -279,15 +135,9 @@
 1
 ]
 ],
-"hbo:1571": [
-[
-"até",
-1
-]
-],
 "hbo:1696": [
 [
-"qatambøe ein",
+"ein",
 1
 ]
 ],
@@ -297,69 +147,19 @@
 1
 ],
 [
-"matanam",
+"ein",
 1
 ]
 ],
 "hbo:1869": [
 [
-"zenda tokhotapak tozo",
+"tokhotapak",
 1
 ]
 ],
 "hbo:1870": [
 [
-"nakhoa be",
-1
-]
-],
-"hbo:1886a": [
-[
-"ta",
-4
-],
-[
-"ndøgo",
-2
-],
-[
-"guguna",
-2
-],
-[
-"te qonǿqáv",
-1
-],
-[
-"manqei",
-1
-],
-[
-"tiqa",
-1
-],
-[
-"sa",
-1
-],
-[
-"nginik",
-1
-]
-],
-"hbo:1886b": [
-[
-"gê",
-1
-]
-],
-"hbo:1886d": [
-[
-"manqei",
-1
-],
-[
-"kawaevém",
+"nakhoa",
 1
 ]
 ],
@@ -371,91 +171,33 @@
 ],
 "hbo:1961": [
 [
-"ndego",
+"ndøgo",
 1
 ],
 [
-"ndǿgoát",
+"mbógoát",
 1
 ],
 [
-"ndægoam",
-1
-],
-[
-"ndægoát",
-1
-],
-[
-"ewágát",
+"nogoám",
 1
 ],
 [
 "ndægo",
 1
+],
+[
+"bèzøgó",
+1
 ]
 ],
 "hbo:1980": [
 [
-"khoqoté okhoāt",
+"khoqoté",
 2
 ],
 [
-"ndøgo nøqavát",
-1
-]
-],
-"hbo:1992": [
-[
-"ndap",
-1
-]
-],
-"hbo:2050b": [
-[
-"neka",
-15
-],
-[
-"yaq",
-5
-],
-[
-"nekā",
-1
-],
-[
-"neka neka",
-1
-],
-[
-"yaq ndigu",
-1
-],
-[
-"vø",
-1
-],
-[
-"geté",
-1
-]
-],
-"hbo:2050c": [
-[
-"ndøgo no nozø",
-1
-],
-[
-"etoám",
-1
-],
-[
-"ndø bazaføgakh",
-1
-],
-[
-"ndægo ndǿgo",
+"manqei",
 1
 ]
 ],
@@ -468,38 +210,22 @@
 "hbo:2088": [
 [
 "nqanek",
-4
-],
-[
-"nginik qotanqá",
-1
-],
-[
-"qo",
-1
+5
 ]
 ],
 "hbo:2142": [
 [
-"zombó matøvém",
+"zo",
 1
 ]
 ],
 "hbo:2388": [
 [
-"qogó qogó",
-1
+"kha føgakh mbá",
+3
 ],
 [
-"mbá",
-1
-],
-[
-"qogó",
-1
-],
-[
-"qo",
+"føgakh mbá",
 1
 ]
 ],
@@ -517,13 +243,13 @@
 ],
 "hbo:2571": [
 [
-"nøveséz",
+"nakhag",
 1
 ]
 ],
 "hbo:2677": [
 [
-"khagua khagua khagua",
+"manase",
 1
 ]
 ],
@@ -535,23 +261,13 @@
 ],
 "hbo:2865": [
 [
-"møe",
+"ndøfofògeap",
 1
 ]
 ],
 "hbo:2945": [
 [
 "nakheis",
-1
-]
-],
-"hbo:2967a": [
-[
-"noqa",
-1
-],
-[
-"noge",
 1
 ]
 ],
@@ -564,11 +280,7 @@
 "hbo:3091": [
 [
 "zosua",
-3
-],
-[
-"zoshua",
-1
+4
 ]
 ],
 "hbo:3117": [
@@ -577,13 +289,7 @@
 1
 ],
 [
-"khøuwa te",
-1
-]
-],
-"hbo:3119": [
-[
-"ìvav pavpave",
+"khøuwa",
 1
 ]
 ],
@@ -599,43 +305,33 @@
 1
 ]
 ],
-"hbo:3320": [
-[
-"gésuzamák",
-1
-]
-],
 "hbo:3383": [
 [
-"zoden kea",
-3
+"zoden",
+2
 ],
 [
-"den kea",
-1
+"zoden kea",
+2
 ]
 ],
 "hbo:3423": [
 [
-"qazø",
-1
-],
-[
-"ndǿgoát",
-1
+"kawaév",
+2
 ],
 [
 "ndigú",
 1
 ],
 [
-"kawaevém",
+"ndægo",
 1
 ]
 ],
-"hbo:3425": [
+"hbo:3427": [
 [
-"qazonǿ",
+"manqei",
 1
 ]
 ],
@@ -645,147 +341,29 @@
 1
 ]
 ],
-"hbo:3509a": [
-[
-"av",
-3
-],
-[
-"av no",
-1
-],
-[
-"no",
-1
-],
-[
-"qo",
-1
-]
-],
-"hbo:3509b": [
-[
-"qo",
-4
-],
-[
-"qoqa",
-4
-],
-[
-"qoge",
-2
-],
-[
-"qouvaqák",
-1
-],
-[
-"qo getaqambe",
-1
-],
-[
-"no qataqambe",
-1
-],
-[
-"av qo",
-1
-]
-],
-"hbo:3509c": [
-[
-"qo no qo",
-1
-],
-[
-"qo",
-1
-]
-],
-"hbo:3559": [
-[
-"zømbe",
-1
-]
-],
-"hbo:3588": [
-[
-"zapa ndǿgo",
-3
-],
-[
-"zapa",
-1
-]
-],
 "hbo:3605": [
 [
 "ate",
-8
+9
 ],
 [
-"ate goam",
+"ate gi goam",
 1
 ],
 [
-"toqondapet",
+"ndægoát",
 1
 ],
 [
-"einâv",
+"ate ndægo",
 1
 ],
 [
-"gimbo ate",
+"ate qægoam",
 1
 ],
 [
-"ate gu",
-1
-],
-[
-"ezoqām",
-1
-]
-],
-"hbo:3641b": [
-[
-"zogi",
-4
-],
-[
-"zo",
-3
-],
-[
-"zøkeza",
-3
-],
-[
-"zoge",
-2
-],
-[
-"zoqa",
-1
-],
-[
-"zombó gezømbe",
-1
-],
-[
-"zø",
-1
-],
-[
-"vøzø",
-1
-]
-],
-"hbo:3651": [
-[
-"nakémbá",
+"ndægo",
 1
 ]
 ],
@@ -797,55 +375,7 @@
 ],
 "hbo:3789": [
 [
-"qane peawáp",
-1
-]
-],
-"hbo:3807a": [
-[
-"yaq",
-3
-],
-[
-"te",
-2
-],
-[
-"av",
-1
-],
-[
-"geawát",
-1
-],
-[
-"vø",
-1
-],
-[
-"etoam",
-1
-],
-[
-"ndigu",
-1
-],
-[
-"te tøtembe",
-1
-]
-],
-"hbo:3808": [
-[
-"gésuzamák",
-1
-],
-[
-"qøuvaqák qouvaqák",
-1
-],
-[
-"yogeav",
+"mbuk",
 1
 ]
 ],
@@ -855,35 +385,9 @@
 1
 ]
 ],
-"hbo:3915": [
-[
-"lovølova",
-1
-]
-],
-"hbo:3963a": [
-[
-"ndigu",
-2
-],
-[
-"vø zø",
-1
-],
-[
-"ndigu zø",
-1
-]
-],
-"hbo:3966": [
-[
-"kandambá",
-1
-]
-],
 "hbo:3996": [
 [
-"sininím",
+"khøuwa",
 1
 ]
 ],
@@ -893,15 +397,9 @@
 1
 ]
 ],
-"hbo:4185": [
-[
-"mozes",
-1
-]
-],
 "hbo:4191": [
 [
-"møndønaním",
+"pakhaéz",
 1
 ],
 [
@@ -923,13 +421,7 @@
 ],
 "hbo:4264": [
 [
-"zó okhoám",
-1
-]
-],
-"hbo:4480": [
-[
-"manqei",
+"sokhoe",
 1
 ]
 ],
@@ -951,56 +443,22 @@
 1
 ]
 ],
-"hbo:4784": [
-[
-"tetaqa",
-1
-]
-],
 "hbo:4872": [
 [
 "mozes",
-10
-],
-[
-"mozes ndego",
-1
+11
 ]
 ],
 "hbo:5104": [
 [
-"qanøngáz",
-1
-],
-[
 "kea",
-1
-]
-],
-"hbo:5105a": [
-[
-"qoqoni",
-1
-],
-[
-"ni ni ni",
-1
-]
-],
-"hbo:5105b": [
-[
-"qo",
-1
+2
 ]
 ],
 "hbo:5117": [
 [
-"yagám",
-1
-],
-[
-"matev",
-1
+"sambi",
+2
 ]
 ],
 "hbo:5126": [
@@ -1011,45 +469,27 @@
 ],
 "hbo:5157": [
 [
-"qatevé",
+"tènengiú",
 1
 ]
 ],
 "hbo:5414": [
 [
 "etoám",
+5
+],
+[
+"nøzǿ etoám",
 2
 ],
 [
 "etoam",
-2
-],
-[
-"etoat",
-1
-],
-[
-"nozø etoám",
-1
-],
-[
-"nøzǿ etoám",
-1
-],
-[
-"etoám etoám",
-1
-]
-],
-"hbo:5493": [
-[
-"getaqambe",
 1
 ]
 ],
 "hbo:5612": [
 [
-"peawap",
+"mbuk",
 1
 ]
 ],
@@ -1061,43 +501,33 @@
 ],
 "hbo:5674": [
 [
-"qotanqá",
+"nqanek",
 1
 ],
 [
-"ezoqa",
+"zo",
 1
 ],
 [
-"uzát",
-1
-],
-[
-"zó",
+"etoam",
 1
 ]
 ],
 "hbo:5676": [
 [
-"yaq",
-1
-]
-],
-"hbo:5704": [
-[
-"atema",
-3
+"keoqa",
+2
 ]
 ],
 "hbo:5800": [
 [
-"nó",
+"nóqouvaqák",
 1
 ]
 ],
 "hbo:5826": [
 [
-"tøké",
+"zozøtøké",
 1
 ]
 ],
@@ -1107,53 +537,27 @@
 2
 ],
 [
+"bawan ezoqam",
+1
+],
+[
 "ezoqa ewaqape",
-1
-],
-[
-"ezoqa",
-1
-]
-],
-"hbo:5973": [
-[
-"namba",
-3
-],
-[
-"namba namba",
-2
-]
-],
-"hbo:6030": [
-[
-"yaq",
 1
 ]
 ],
 "hbo:6206": [
 [
-"vøqogó",
+"qagó",
 1
 ]
 ],
 "hbo:6213": [
 [
-"matanám",
-1
-],
-[
 "matev",
-1
+2
 ],
 [
-"ni ni ni yaq",
-1
-]
-],
-"hbo:6258": [
-[
-"ndakin",
+"av",
 1
 ]
 ],
@@ -1169,12 +573,8 @@
 ],
 "hbo:6440": [
 [
-"te",
-1
-],
-[
-"qa megemege",
-1
+"megemege",
+2
 ]
 ],
 "hbo:6578": [
@@ -1185,35 +585,27 @@
 ],
 "hbo:6680": [
 [
-"ein ndægo",
-2
-],
-[
-"einâv",
-1
-],
-[
-"gigiap zømbe",
-1
-],
-[
-"gezømbe",
-1
-],
-[
 "ein",
+3
+],
+[
+"ge",
+1
+],
+[
+"gembøe ein",
 1
 ]
 ],
 "hbo:6720": [
 [
-"lou zó khakheinømém",
+"lou khakheinømém",
 1
 ]
 ],
 "hbo:6743": [
 [
-"taqambē",
+"ndǿgo",
 1
 ]
 ],
@@ -1225,41 +617,25 @@
 ],
 "hbo:7130": [
 [
-"te",
-1
-]
-],
-"hbo:7206": [
-[
-"lubén",
+"qanøzáv",
 1
 ]
 ],
 "hbo:7272": [
 [
-"tokhotapak tozo",
+"zenda tokhotapak",
 1
 ]
 ],
 "hbo:7503": [
 [
-"nó qøuvaqák",
-1
-]
-],
-"hbo:7535": [
-[
-"sa",
-2
-],
-[
-"geté sa",
+"nóqøuvaqák",
 1
 ]
 ],
 "hbo:7626": [
 [
-"bawan bawan bawan",
+"khagua",
 1
 ]
 ],
@@ -1271,79 +647,81 @@
 ],
 "hbo:7725": [
 [
-"zo nqawa zøkeza",
+"nqawa",
 1
 ]
 ],
 "hbo:7860": [
 [
-"qa kawakawa",
+"izlael",
 1
 ]
 ],
 "hbo:7919": [
 [
-"eqeieqei",
+"qoqa",
 1
 ],
 [
-"eqeieqei eqeieqei",
-1
-]
-],
-"hbo:7969": [
-[
-"misika",
+"ometám",
 1
 ]
 ],
 "hbo:7971": [
 [
-"toqoni khofotav",
+"khofotáv",
 1
 ]
 ],
 "hbo:8040": [
 [
-"yogea zenda",
+"yogea",
 1
 ]
 ],
 "hbo:8085": [
 [
-"manqat",
-2
+"ewag av",
+1
 ],
 [
-"yogeav",
+"ewagám",
+1
+],
+[
+"manqat yogeav",
 1
 ]
 ],
 "hbo:8104": [
 [
-"qagó",
+"manqat",
 1
 ],
 [
-"geawát",
+"bevèsez",
 1
 ]
 ],
 "hbo:8121": [
 [
+"gumusinan",
+1
+],
+[
 "khøuwa",
-2
+1
 ]
 ],
 "hbo:8334": [
 [
-"sasae ezoqam",
+"sasae",
 1
 ]
 ],
 "hbo:8451": [
 [
-"guguna",
+"guna",
 2
 ]
 ]
