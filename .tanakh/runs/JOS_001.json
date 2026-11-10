@@ -9,7 +9,7 @@
    "model": "claude-opus-5-5",
    "prompts sha256": "388398d67ec13bbe47fb9be92ccf76e9e89aa5682e107b7cc3d80763fbc31e8d",
    "code": "beeb96b",
-   "register": "0.0-seed",
+   "register": "0.1",
    "built": "2026-11-10 01:52",
    "kind of draft": "main"
   },
@@ -19,7 +19,7 @@
    "model": "claude-opus-5-5",
    "prompts sha256": "142073289cbddebe3238f29cf52d483abeaf466bc55c7ff0f2acaa05286bf82a",
    "code": "beeb96b",
-   "register": "0.0-seed",
+   "register": "0.1",
    "built": "2026-11-10 01:52",
    "kind of draft": "shape"
   },
@@ -28,7 +28,7 @@
    "label": "nllb",
    "model": "scg-kvg-morph-c4",
    "code": "beeb96b",
-   "register": "0.0-seed",
+   "register": "0.1",
    "built": "2026-11-10 01:56",
    "kind of draft": "nllb"
   },
@@ -36,9 +36,9 @@
    "run": "rules@2026-11-10",
    "label": "rules",
    "model": "rules learned from the team's New Testament",
-   "code": "beeb96b",
-   "register": "0.0-seed",
-   "built": "2026-11-10 02:16",
+   "code": "e6fd3a2+changes",
+   "register": "0.1",
+   "built": "2026-11-10 15:55",
    "kind of draft": "rules"
   }
  }
