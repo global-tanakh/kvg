@@ -1,0 +1,1351 @@
+{
+"format": "make-tanakh-glosses/1",
+"language": "kvg",
+"source": {
+"repo": "bcv-commons/make-tanakh-grammar",
+"commit": "734fca9",
+"editions": [
+"drafts"
+],
+"chapters": 1
+},
+"licence": "CC0-1.0 (counts from our drafts); lexemes: MACULA Hebrew (WLC) via lexeme-spine-macula, CC BY 4.0",
+"lexemes": {
+"hbo:0001": [
+[
+"qave",
+1
+]
+],
+"hbo:0227": [
+[
+"toqo matanam taqa zita",
+1
+],
+[
+"qoqa",
+1
+]
+],
+"hbo:0251": [
+[
+"qaniap",
+1
+],
+[
+"qaniap sambi",
+1
+]
+],
+"hbo:0310": [
+[
+"taqa zita",
+1
+]
+],
+"hbo:0376": [
+[
+"ezoqa",
+1
+],
+[
+"ndego",
+1
+]
+],
+"hbo:0408": [
+[
+"taqa",
+1
+],
+[
+"qo",
+1
+],
+[
+"ndøgonèmat",
+1
+]
+],
+"hbo:0413": [
+[
+"yaq",
+1
+],
+[
+"ewágát",
+1
+]
+],
+"hbo:0430": [
+[
+"mbumbukiam",
+5
+]
+],
+"hbo:0553": [
+[
+"føgakh føgøføgakh",
+1
+],
+[
+"føgakh",
+1
+],
+[
+"khandi føgakh",
+1
+],
+[
+"føgakh mbá qogó",
+1
+]
+],
+"hbo:0559": [
+[
+"ein",
+2
+],
+[
+"ge",
+1
+],
+[
+"gembøe",
+1
+],
+[
+"āv gezømbe",
+1
+],
+[
+"ein nqǽgo",
+1
+],
+[
+"gezø",
+1
+],
+[
+"gimbo qavøiu āv",
+1
+]
+],
+"hbo:0595": [
+[
+"no",
+1
+]
+],
+"hbo:0776": [
+[
+"manqei",
+7
+],
+[
+"manqei manqei",
+1
+]
+],
+"hbo:0802": [
+[
+"sakhei",
+1
+]
+],
+"hbo:0834": [
+[
+"ma",
+8
+],
+[
+"ndægo",
+2
+],
+[
+"ndægoát",
+1
+],
+[
+"ande",
+1
+],
+[
+"ndøgo",
+1
+],
+[
+"matønumát",
+1
+],
+[
+"bègó",
+1
+],
+[
+"gekha",
+1
+]
+],
+"hbo:0853": [
+[
+"namba",
+1
+]
+],
+"hbo:0859": [
+[
+"qo",
+1
+],
+[
+"qo qogó qogó ndǿgo qozø",
+1
+]
+],
+"hbo:0859a": [
+[
+"zo",
+2
+]
+],
+"hbo:0871a": [
+[
+"ndøgo",
+3
+],
+[
+"ndǿgo",
+2
+],
+[
+"mokho",
+1
+],
+[
+"āv",
+1
+],
+[
+"manqei",
+1
+],
+[
+"ta",
+1
+]
+],
+"hbo:0935": [
+[
+"wav",
+1
+]
+],
+"hbo:1121": [
+[
+"ge yo",
+1
+],
+[
+"ezoqam",
+1
+]
+],
+"hbo:1366": [
+[
+"manqei",
+1
+]
+],
+"hbo:1368": [
+[
+"us",
+1
+]
+],
+"hbo:1419": [
+[
+"qape",
+1
+],
+[
+"kandambaqape",
+1
+]
+],
+"hbo:1425": [
+[
+"gad",
+1
+]
+],
+"hbo:1571": [
+[
+"até",
+1
+]
+],
+"hbo:1696": [
+[
+"qatambøe ein",
+1
+]
+],
+"hbo:1697": [
+[
+"manqat",
+1
+],
+[
+"matanam",
+1
+]
+],
+"hbo:1869": [
+[
+"zenda tokhotapak tozo",
+1
+]
+],
+"hbo:1870": [
+[
+"nakhoa be",
+1
+]
+],
+"hbo:1886a": [
+[
+"ta",
+4
+],
+[
+"ndøgo",
+2
+],
+[
+"guguna",
+2
+],
+[
+"te qonǿqáv",
+1
+],
+[
+"manqei",
+1
+],
+[
+"tiqa",
+1
+],
+[
+"sa",
+1
+],
+[
+"nginik",
+1
+]
+],
+"hbo:1886b": [
+[
+"gê",
+1
+]
+],
+"hbo:1886d": [
+[
+"manqei",
+1
+],
+[
+"kawaevém",
+1
+]
+],
+"hbo:1897": [
+[
+"asøzú",
+1
+]
+],
+"hbo:1961": [
+[
+"ndego",
+1
+],
+[
+"ndǿgoát",
+1
+],
+[
+"ndægoam",
+1
+],
+[
+"ndægoát",
+1
+],
+[
+"ewágát",
+1
+],
+[
+"ndægo",
+1
+]
+],
+"hbo:1980": [
+[
+"khoqoté okhoāt",
+2
+],
+[
+"ndøgo nøqavát",
+1
+]
+],
+"hbo:1992": [
+[
+"ndap",
+1
+]
+],
+"hbo:2050b": [
+[
+"neka",
+15
+],
+[
+"yaq",
+5
+],
+[
+"nekā",
+1
+],
+[
+"neka neka",
+1
+],
+[
+"yaq ndigu",
+1
+],
+[
+"vø",
+1
+],
+[
+"geté",
+1
+]
+],
+"hbo:2050c": [
+[
+"ndøgo no nozø",
+1
+],
+[
+"etoám",
+1
+],
+[
+"ndø bazaføgakh",
+1
+],
+[
+"ndægo ndǿgo",
+1
+]
+],
+"hbo:2063": [
+[
+"nqanek",
+1
+]
+],
+"hbo:2088": [
+[
+"nqanek",
+4
+],
+[
+"nginik qotanqá",
+1
+],
+[
+"qo",
+1
+]
+],
+"hbo:2142": [
+[
+"zombó matøvém",
+1
+]
+],
+"hbo:2388": [
+[
+"qogó qogó",
+1
+],
+[
+"mbá",
+1
+],
+[
+"qogó",
+1
+],
+[
+"qo",
+1
+]
+],
+"hbo:2416": [
+[
+"toqondapet",
+1
+]
+],
+"hbo:2428": [
+[
+"bazaføgakh",
+1
+]
+],
+"hbo:2571": [
+[
+"nøveséz",
+1
+]
+],
+"hbo:2677": [
+[
+"khagua khagua khagua",
+1
+]
+],
+"hbo:2850": [
+[
+"hit ak",
+1
+]
+],
+"hbo:2865": [
+[
+"møe",
+1
+]
+],
+"hbo:2945": [
+[
+"nakheis",
+1
+]
+],
+"hbo:2967a": [
+[
+"noqa",
+1
+],
+[
+"noge",
+1
+]
+],
+"hbo:3068": [
+[
+"evezøza",
+10
+]
+],
+"hbo:3091": [
+[
+"zosua",
+3
+],
+[
+"zoshua",
+1
+]
+],
+"hbo:3117": [
+[
+"yage",
+1
+],
+[
+"khøuwa te",
+1
+]
+],
+"hbo:3119": [
+[
+"ìvav pavpave",
+1
+]
+],
+"hbo:3220": [
+[
+"ndaola",
+1
+]
+],
+"hbo:3225": [
+[
+"nakeamo",
+1
+]
+],
+"hbo:3320": [
+[
+"gésuzamák",
+1
+]
+],
+"hbo:3383": [
+[
+"zoden kea",
+3
+],
+[
+"den kea",
+1
+]
+],
+"hbo:3423": [
+[
+"qazø",
+1
+],
+[
+"ndǿgoát",
+1
+],
+[
+"ndigú",
+1
+],
+[
+"kawaevém",
+1
+]
+],
+"hbo:3425": [
+[
+"qazonǿ",
+1
+]
+],
+"hbo:3478": [
+[
+"izlael",
+1
+]
+],
+"hbo:3509a": [
+[
+"av",
+3
+],
+[
+"av no",
+1
+],
+[
+"no",
+1
+],
+[
+"qo",
+1
+]
+],
+"hbo:3509b": [
+[
+"qo",
+4
+],
+[
+"qoqa",
+4
+],
+[
+"qoge",
+2
+],
+[
+"qouvaqák",
+1
+],
+[
+"qo getaqambe",
+1
+],
+[
+"no qataqambe",
+1
+],
+[
+"av qo",
+1
+]
+],
+"hbo:3509c": [
+[
+"qo no qo",
+1
+],
+[
+"qo",
+1
+]
+],
+"hbo:3559": [
+[
+"zømbe",
+1
+]
+],
+"hbo:3588": [
+[
+"zapa ndǿgo",
+3
+],
+[
+"zapa",
+1
+]
+],
+"hbo:3605": [
+[
+"ate",
+8
+],
+[
+"ate goam",
+1
+],
+[
+"toqondapet",
+1
+],
+[
+"einâv",
+1
+],
+[
+"gimbo ate",
+1
+],
+[
+"ate gu",
+1
+],
+[
+"ezoqām",
+1
+]
+],
+"hbo:3641b": [
+[
+"zogi",
+4
+],
+[
+"zo",
+3
+],
+[
+"zøkeza",
+3
+],
+[
+"zoge",
+2
+],
+[
+"zoqa",
+1
+],
+[
+"zombó gezømbe",
+1
+],
+[
+"zø",
+1
+],
+[
+"vøzø",
+1
+]
+],
+"hbo:3651": [
+[
+"nakémbá",
+1
+]
+],
+"hbo:3709": [
+[
+"zenda",
+1
+]
+],
+"hbo:3789": [
+[
+"qane peawáp",
+1
+]
+],
+"hbo:3807a": [
+[
+"yaq",
+3
+],
+[
+"te",
+2
+],
+[
+"av",
+1
+],
+[
+"geawát",
+1
+],
+[
+"vø",
+1
+],
+[
+"etoam",
+1
+],
+[
+"ndigu",
+1
+],
+[
+"te tøtembe",
+1
+]
+],
+"hbo:3808": [
+[
+"gésuzamák",
+1
+],
+[
+"qøuvaqák qouvaqák",
+1
+],
+[
+"yogeav",
+1
+]
+],
+"hbo:3844": [
+[
+"lebanon",
+1
+]
+],
+"hbo:3915": [
+[
+"lovølova",
+1
+]
+],
+"hbo:3963a": [
+[
+"ndigu",
+2
+],
+[
+"vø zø",
+1
+],
+[
+"ndigu zø",
+1
+]
+],
+"hbo:3966": [
+[
+"kandambá",
+1
+]
+],
+"hbo:3996": [
+[
+"sininím",
+1
+]
+],
+"hbo:4057": [
+[
+"leg av",
+1
+]
+],
+"hbo:4185": [
+[
+"mozes",
+1
+]
+],
+"hbo:4191": [
+[
+"møndønaním",
+1
+],
+[
+"khanaé",
+1
+]
+],
+"hbo:4194": [
+[
+"genanim",
+1
+]
+],
+"hbo:4217": [
+[
+"fakhanam",
+1
+]
+],
+"hbo:4264": [
+[
+"zó okhoám",
+1
+]
+],
+"hbo:4480": [
+[
+"manqei",
+1
+]
+],
+"hbo:4519": [
+[
+"manase",
+1
+]
+],
+"hbo:4725": [
+[
+"manqei manqei",
+1
+]
+],
+"hbo:4735": [
+[
+"søvakha gigiap",
+1
+]
+],
+"hbo:4784": [
+[
+"tetaqa",
+1
+]
+],
+"hbo:4872": [
+[
+"mozes",
+10
+],
+[
+"mozes ndego",
+1
+]
+],
+"hbo:5104": [
+[
+"qanøngáz",
+1
+],
+[
+"kea",
+1
+]
+],
+"hbo:5105a": [
+[
+"qoqoni",
+1
+],
+[
+"ni ni ni",
+1
+]
+],
+"hbo:5105b": [
+[
+"qo",
+1
+]
+],
+"hbo:5117": [
+[
+"yagám",
+1
+],
+[
+"matev",
+1
+]
+],
+"hbo:5126": [
+[
+"nun",
+1
+]
+],
+"hbo:5157": [
+[
+"qatevé",
+1
+]
+],
+"hbo:5414": [
+[
+"etoám",
+2
+],
+[
+"etoam",
+2
+],
+[
+"etoat",
+1
+],
+[
+"nozø etoám",
+1
+],
+[
+"nøzǿ etoám",
+1
+],
+[
+"etoám etoám",
+1
+]
+],
+"hbo:5493": [
+[
+"getaqambe",
+1
+]
+],
+"hbo:5612": [
+[
+"peawap",
+1
+]
+],
+"hbo:5650": [
+[
+"sasae ezoqam",
+5
+]
+],
+"hbo:5674": [
+[
+"qotanqá",
+1
+],
+[
+"ezoqa",
+1
+],
+[
+"uzát",
+1
+],
+[
+"zó",
+1
+]
+],
+"hbo:5676": [
+[
+"yaq",
+1
+]
+],
+"hbo:5704": [
+[
+"atema",
+3
+]
+],
+"hbo:5800": [
+[
+"nó",
+1
+]
+],
+"hbo:5826": [
+[
+"tøké",
+1
+]
+],
+"hbo:5971": [
+[
+"ezoqam",
+2
+],
+[
+"ezoqa ewaqape",
+1
+],
+[
+"ezoqa",
+1
+]
+],
+"hbo:5973": [
+[
+"namba",
+3
+],
+[
+"namba namba",
+2
+]
+],
+"hbo:6030": [
+[
+"yaq",
+1
+]
+],
+"hbo:6206": [
+[
+"vøqogó",
+1
+]
+],
+"hbo:6213": [
+[
+"matanám",
+1
+],
+[
+"matev",
+1
+],
+[
+"ni ni ni yaq",
+1
+]
+],
+"hbo:6258": [
+[
+"ndakin",
+1
+]
+],
+"hbo:6310": [
+[
+"lavao",
+1
+],
+[
+"manqat",
+1
+]
+],
+"hbo:6440": [
+[
+"te",
+1
+],
+[
+"qa megemege",
+1
+]
+],
+"hbo:6578": [
+[
+"yuflatis",
+1
+]
+],
+"hbo:6680": [
+[
+"ein ndægo",
+2
+],
+[
+"einâv",
+1
+],
+[
+"gigiap zømbe",
+1
+],
+[
+"gezømbe",
+1
+],
+[
+"ein",
+1
+]
+],
+"hbo:6720": [
+[
+"lou zó khakheinømém",
+1
+]
+],
+"hbo:6743": [
+[
+"taqambē",
+1
+]
+],
+"hbo:6965": [
+[
+"mòqo itán",
+1
+]
+],
+"hbo:7130": [
+[
+"te",
+1
+]
+],
+"hbo:7206": [
+[
+"lubén",
+1
+]
+],
+"hbo:7272": [
+[
+"tokhotapak tozo",
+1
+]
+],
+"hbo:7503": [
+[
+"nó qøuvaqák",
+1
+]
+],
+"hbo:7535": [
+[
+"sa",
+2
+],
+[
+"geté sa",
+1
+]
+],
+"hbo:7626": [
+[
+"bawan bawan bawan",
+1
+]
+],
+"hbo:7650": [
+[
+"manqa mbusa",
+1
+]
+],
+"hbo:7725": [
+[
+"zo nqawa zøkeza",
+1
+]
+],
+"hbo:7860": [
+[
+"qa kawakawa",
+1
+]
+],
+"hbo:7919": [
+[
+"eqeieqei",
+1
+],
+[
+"eqeieqei eqeieqei",
+1
+]
+],
+"hbo:7969": [
+[
+"misika",
+1
+]
+],
+"hbo:7971": [
+[
+"toqoni khofotav",
+1
+]
+],
+"hbo:8040": [
+[
+"yogea zenda",
+1
+]
+],
+"hbo:8085": [
+[
+"manqat",
+2
+],
+[
+"yogeav",
+1
+]
+],
+"hbo:8104": [
+[
+"qagó",
+1
+],
+[
+"geawát",
+1
+]
+],
+"hbo:8121": [
+[
+"khøuwa",
+2
+]
+],
+"hbo:8334": [
+[
+"sasae ezoqam",
+1
+]
+],
+"hbo:8451": [
+[
+"guguna",
+2
+]
+]
+}
+}
